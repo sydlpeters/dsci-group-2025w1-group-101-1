@@ -1,0 +1,4 @@
+# DSCI 100 Project
+**Problem**: Predicting Usage of a Video Game Research Server
+
+"A research group in Computer Science at UBC is collecting data about how people play video games. They have set up a MineCraft serverLinks to an external site., and players actions are recorded as they navigate through the world. But running this project is not simple: they need to target their recruitment efforts, and make sure they have enough resources (e.g., software licenses, server hardware) to handle the number of players they attract." (CANVAS)
